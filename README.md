@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mí:
 ¡Hola! Soy una programadora apasionada de Argentina, con 27 años y muchas ganas de aprender y crecer en el mundo del desarrollo. Me encanta explorar nuevas tecnologías, resolver problemas y contribuir a proyectos que me ayuden a expandir mis conocimientos. Mi objetivo es seguir desarrollando mis habilidades y colaborar en proyectos que generen un impacto positivo. <br><br>¡Gracias por visitar mi perfil y no dudes en contactarme!
 
 
