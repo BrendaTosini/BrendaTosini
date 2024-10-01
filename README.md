@@ -1,6 +1,7 @@
-# 💫 Sobre Mí:
-¡Hola! Soy una programadora apasionada de Argentina, con 27 años y muchas ganas de aprender y crecer en el mundo del desarrollo. Me encanta explorar nuevas tecnologías, resolver problemas y contribuir a proyectos que me ayuden a expandir mis conocimientos. Mi objetivo es seguir desarrollando mis habilidades y colaborar en proyectos que generen un impacto positivo. <br><br>¡Gracias por visitar mi perfil y no dudes en contactarme!
+# 💫 About Brenda:
+Hi! I'm a passionate programmer from Argentina, 27 years old, with a strong desire to learn and grow in the development world. I love exploring new technologies, solving problems, and contributing to projects that help me expand my knowledge. My goal is to continue developing my skills and collaborate on projects that make a positive impact.
 
+Thank you for visiting my profile, and feel free to contact me!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/brendatosini/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/brendatosini/) 
