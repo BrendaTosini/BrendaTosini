@@ -1,5 +1,5 @@
 # 💫 About Brenda:
-Hi! I'm a passionate programmer from Argentina, 27 years old, with a strong desire to learn and grow in the development world. I love exploring new technologies, solving problems, and contributing to projects that help me expand my knowledge. My goal is to continue developing my skills and collaborate on projects that make a positive impact.
+Hi! I'm a passionate programmer from Argentina, with a strong desire to learn and grow in the development world. I love exploring new technologies, solving problems, and contributing to projects that help me expand my knowledge. My goal is to continue developing my skills and collaborate on projects that make a positive impact.
 
 Thank you for visiting my profile, and feel free to contact me!
 
